@@ -1,3 +1,3 @@
 # modal-window
 
-Projeto simples utilizando janelas modais, feito com JavaScript
+Projeto simples de aprendizagem de janelas modais, feito com JavaScript
